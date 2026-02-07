@@ -97,23 +97,23 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) <img width="504" height="504" alt="image" src="https://github.com/user-attachments/assets/a8a2e824-928d-4880-ac0a-e2146157c28f" />
+<img width="504" height="504" alt="image" src="https://github.com/user-attachments/assets/a8a2e824-928d-4880-ac0a-e2146157c28f" />
 
 
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) <img width="504" height="504" alt="image" src="https://github.com/user-attachments/assets/9c202832-b0d4-4335-819e-3954866add3c" />
+<img width="504" height="504" alt="image" src="https://github.com/user-attachments/assets/9c202832-b0d4-4335-819e-3954866add3c" />
 
 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) <img width="504" height="504" alt="image" src="https://github.com/user-attachments/assets/2ebb23d1-bd32-42b9-b8e1-1da6e8e4ea8e" />
+<img width="504" height="504" alt="image" src="https://github.com/user-attachments/assets/2ebb23d1-bd32-42b9-b8e1-1da6e8e4ea8e" />
 
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png)<img width="504" height="504" alt="image" src="https://github.com/user-attachments/assets/e1095563-8b87-41d2-8694-f528bb538291" />
+<img width="504" height="504" alt="image" src="https://github.com/user-attachments/assets/e1095563-8b87-41d2-8694-f528bb538291" />
 
